@@ -1,0 +1,28 @@
+h1
+{
+text-align: center;
+
+}
+ section 
+
+{
+	background-image:url("img/téléchargement.jpeg");
+	text-align: center;
+	height: 100%;
+
+}
+div	
+{
+	margin-left: auto;
+	margin-right: auto;
+	height: 800px;
+	width: 50%;
+	background: white;
+	font-size: 20px;
+
+}
+strong
+{
+	text-transform: uppercase;
+}
+}
